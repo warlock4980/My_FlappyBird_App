@@ -2,7 +2,7 @@
 
 A new Flutter project. 
 
-Check out Mitch Koko's tutorial on YouTube for a detailed tutorial.
+Check out Mitch Koko's video on YouTube for a detailed tutorial.
 https://youtu.be/vgmVPpFP0fI
 
 ## Getting Started
