@@ -3,7 +3,7 @@
 A new Flutter project mimicking popular Flappy Bird app. Bird image was 
 obtained from: 
 
-https://www.cleanpng.com/png-flappy-bird-tap-bird-2d-jump-bird-jump-squishy-bir-735089/
+https://www.cleanpng.com/free/flappy-bird.html
 
 Check out Mitch Koko's video on YouTube for a detailed tutorial.
 https://youtu.be/vgmVPpFP0fI
