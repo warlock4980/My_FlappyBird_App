@@ -5,10 +5,12 @@ obtained from:
 
 https://www.cleanpng.com/free/flappy-bird.html
 
-Check out Mitch Koko's video on YouTube for a detailed tutorial.
+Check out Mitch Koko's video on YouTube for a detailed tutorial:
+
+FLAPPY BIRD • FLUTTER FROM SCRATCH
 https://youtu.be/vgmVPpFP0fI
 
-Main code was added to .dart files in the /lib directory. 
+Main code for bird, barriers, and simple game mechanics was added to .dart files in the /lib directory. 
 
 ## Getting Started
 
