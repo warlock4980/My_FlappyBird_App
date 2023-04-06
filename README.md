@@ -1,13 +1,16 @@
 # My_FlappyBird_App
 
-A new Flutter project. 
+A new Flutter project mimicking popular Flappy Bird app. Bird image was 
+obtained from: 
+
+https://www.cleanpng.com/png-flappy-bird-tap-bird-2d-jump-bird-jump-squishy-bir-735089/
 
 Check out Mitch Koko's video on YouTube for a detailed tutorial.
 https://youtu.be/vgmVPpFP0fI
 
-## Getting Started
+Main code was added to .dart files in the /lib directory. 
 
-This project is a starting point for a Flutter application.
+## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
 
