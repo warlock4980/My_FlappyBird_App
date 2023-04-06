@@ -1,4 +1,4 @@
-# my_app
+# Flappy_Bird
 
 A new Flutter project.
 
