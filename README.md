@@ -1,13 +1,18 @@
 # My_FlappyBird_App
 
-A new Flutter project. 
+A new Flutter project mimicking popular Flappy Bird app. Bird image was 
+obtained from: 
 
-Check out Mitch Koko's video on YouTube for a detailed tutorial.
+https://www.cleanpng.com/free/flappy-bird.html
+
+Check out Mitch Koko's video on YouTube for a detailed tutorial:
+
+FLAPPY BIRD • FLUTTER FROM SCRATCH
 https://youtu.be/vgmVPpFP0fI
 
-## Getting Started
+Main code for bird, barriers, and simple game mechanics was added to .dart files in the /lib directory. 
 
-This project is a starting point for a Flutter application.
+## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
 
