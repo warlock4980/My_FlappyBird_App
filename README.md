@@ -1,6 +1,9 @@
 # My_FlappyBird_App
 
-A new Flutter project mimicking popular Flappy Bird app. Bird image was 
+![alt text](https://github.com/warlock4980/My_FlappyBird_App/blob/main/MP4_Video/AppStart.png?raw=true)
+
+
+A Flutter project mimicking popular Flappy Bird app. Bird image was 
 obtained from: 
 
 https://www.cleanpng.com/free/flappy-bird.html
@@ -11,6 +14,8 @@ FLAPPY BIRD • FLUTTER FROM SCRATCH
 https://youtu.be/vgmVPpFP0fI
 
 Main code for bird, barriers, and simple game mechanics was added to .dart files in the /lib directory. 
+
+![alt text](https://github.com/warlock4980/My_FlappyBird_App/blob/main/MP4_Video/AppGameplay.png?raw=true)
 
 ## Getting Started
 
