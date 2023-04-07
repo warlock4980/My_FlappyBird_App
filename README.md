@@ -1,6 +1,8 @@
 # My_FlappyBird_App
 
-A new Flutter project mimicking popular Flappy Bird app. Bird image was 
+![alt text](https://github.com/warlock4980/My_FlappyBird_App/MP4_Video/AppStart.png/?raw=true)
+
+A Flutter project mimicking popular Flappy Bird app. Bird image was 
 obtained from: 
 
 https://www.cleanpng.com/free/flappy-bird.html
