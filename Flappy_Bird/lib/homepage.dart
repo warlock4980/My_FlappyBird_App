@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-import 'package:my_app/barriers.dart';
-import 'package:my_app/bird.dart';
+import 'package:flappy_bird/barriers.dart';
+import 'package:flappy_bird/bird.dart';
 
 class HomePage extends StatefulWidget {
   @override

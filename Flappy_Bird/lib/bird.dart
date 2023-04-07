@@ -1,7 +1,10 @@
-import 'dart:math';
-import 'package:flutter/material.dart';
+// import 'dart:math';
+
+import 'package:flutter/material.dart'
+    show BuildContext, Container, Image, StatelessWidget, Widget;
 
 class MyBird extends StatelessWidget {
+  const MyBird({super.key});
   // Color randomColor() =>
   //     Color((Random().nextDouble() * 0xFFFFFF).toInt() << 0).withOpacity(1.0);
 
