@@ -15,6 +15,8 @@ https://youtu.be/vgmVPpFP0fI
 
 Main code for bird, barriers, and simple game mechanics was added to .dart files in the /lib directory. 
 
+![alt text](https://github.com/warlock4980/My_FlappyBird_App/blob/main/MP4_Video/AppGameplay.png?raw=true)
+
 ## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
