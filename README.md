@@ -13,7 +13,7 @@ Check out Mitch Koko's video on YouTube for a detailed tutorial:
 FLAPPY BIRD • FLUTTER FROM SCRATCH
 https://youtu.be/vgmVPpFP0fI
 
-Main code for bird, barriers, and simple game mechanics was added to .dart files in the /lib directory. 
+Main code for bird, barriers, and simple game mechanics were added to .dart files in the /lib directory. 
 
 ![alt text](https://github.com/warlock4980/My_FlappyBird_App/blob/main/MP4_Video/AppGameplay.png?raw=true)
 
